@@ -114,3 +114,5 @@ ENV/
 *.db
 
 s3cfg
+
+.idea/
